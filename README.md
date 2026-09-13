@@ -132,3 +132,4 @@ Inmediatamente tras el `push`, GitHub ejecutará el autograding:
 - **Puntaje Máximo:** 100 puntos (Escala 0 a 10).
 - **Nota Mínima de Aprobación:** 4.0 / 10 (40 puntos).
 - **Rúbrica Protegida:** La evaluación se realiza mediante comparación criptográfica de hashes SHA-256 salteados (`rubric_tp3.json`), garantizando una autocorrección local objetiva sin exponer las respuestas directas.
+# TP3 - Entrega
